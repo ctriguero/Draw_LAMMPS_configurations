@@ -5,4 +5,7 @@
 
 **(1.2)** **Content**:
 
-- 
+- A program to visualize selected frames in a whole *xyz* trajectory:
+- A program to visualize all the frames in a whole *xyz* trajectory and render a video:
+
+# (2) Usage
