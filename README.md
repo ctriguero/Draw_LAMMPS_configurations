@@ -6,6 +6,17 @@
 **(1.2)** **Content**:
 
 - A program to visualize selected frames in a whole *xyz* trajectory:
+
+**Draw_frame_160527.cpp**
+
 - A program to visualize all the frames in a whole *xyz* trajectory and render a video:
 
+**Video_from_trajectory.cpp**
+
 # (2) Usage
+
+**(2.1)** **Compilation**:
+
+- g++ [program name.cpp]
+
+**(2.2)** **Running the program**:
